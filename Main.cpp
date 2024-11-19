@@ -4,12 +4,15 @@
 #include <windows.h>
 #include <ctime>
 
+
+
 // Creamos Personaje
 Personaje heroe1(500, 30, 0, 0, "POPEYE");
 Personaje enemigo2(100, 20, 0, 0, "MATRIX");
 Personaje enemigo3(100, 20, 0, 0, "DELFIN");
 Personaje enemigo4(100, 20, 0, 0, "AMPETER");
 Personaje enemigo5(100, 20, 0, 0, "SPURSITO");
+Personaje enemigo6(100,20,0,0,"Mario")
 
 //EnemigoFinal
 EnemigoFinal enemigoFinal(200, 20, 4, 0, "MESSI", 35, 70);
